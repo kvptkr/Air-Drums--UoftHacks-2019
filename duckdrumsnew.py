@@ -31,7 +31,7 @@ t_hit = 0
 
 framecount = 0
 
-greenbounds = ([35,70,70], [70,255,255]) #green
+greenbounds = ([35,70,70], [75,255,255]) #green
 tealbounds = ([81,70,70], [100,255,255]) #teal
 
 vc = cv2.VideoCapture(0)
