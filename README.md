@@ -23,3 +23,5 @@ The next step for AirDrums is to add more functionality, allowing the user to ha
 
 ## Technologies Used
 Python, NumPy, OpenCV, MatPlotLib, PyGame, WinSound
+
+https://devpost.com/software/airdrums-39k0ny
